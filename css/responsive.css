@@ -1,0 +1,1470 @@
+@media screen and (min-width: 1400px) {
+  /* line 2, ../sass/responsive.scss */
+  header, .block-14 {
+    background-size: 100%;
+  }
+}
+@media screen and (max-width: 979px) {
+  /* line 6, ../sass/responsive.scss */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* line 7, ../sass/responsive.scss */
+  .container {
+    width: 480px;
+    box-sizing: border-box;
+    padding: 0 10px;
+    margin: 0 auto;
+  }
+
+  /* line 8, ../sass/responsive.scss */
+  .logo {
+    margin: 0;
+  }
+  /* line 10, ../sass/responsive.scss */
+  .logo img {
+    width: 49%;
+    margin-right: 10px;
+  }
+  /* line 11, ../sass/responsive.scss */
+  .logo div {
+    margin-top: 18px;
+    line-height: 27px;
+    font-size: 24px;
+  }
+
+  /* line 13, ../sass/responsive.scss */
+  .button {
+    padding: 10px 40px;
+    font-size: 14px;
+    margin-top: 24px;
+  }
+
+  /* line 14, ../sass/responsive.scss */
+  .rhombus-wrapper {
+    display: none;
+  }
+
+  /* line 15, ../sass/responsive.scss */
+  h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 15px;
+    line-height: 32px;
+  }
+
+  /* line 16, ../sass/responsive.scss */
+  .h1-description {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 0 5px;
+    line-height: 24px;
+  }
+
+  /* line 17, ../sass/responsive.scss */
+  .list-wrapper {
+    width: 100%;
+  }
+  /* line 19, ../sass/responsive.scss */
+  .list-wrapper p {
+    margin: 0 0 20px 0;
+    font-size: 16px;
+  }
+  /* line 20, ../sass/responsive.scss */
+  .list-wrapper ul {
+    margin: 0;
+  }
+  /* line 21, ../sass/responsive.scss */
+  .list-wrapper li {
+    margin-bottom: 16px;
+    padding-left: 43px;
+    font-size: 16px;
+  }
+
+  /* line 23, ../sass/responsive.scss */
+  .yellow-line {
+    padding: 20px 35px 16px 5px;
+    font-size: 20px;
+    line-height: 22px;
+    width: 220px;
+    margin: 120px 0 165px 0;
+  }
+
+  /* line 24, ../sass/responsive.scss */
+  .product {
+    display: none;
+  }
+
+  /* line 25, ../sass/responsive.scss */
+  .product-tablet {
+    display: block;
+    position: absolute;
+    right: 3px;
+    top: 225px;
+  }
+
+  /* line 26, ../sass/responsive.scss */
+  .form-header {
+    font-size: 20px;
+    line-height: 24px;
+    padding: 15px 0;
+  }
+
+  /* line 27, ../sass/responsive.scss */
+  .new-price {
+    font-size: 20px;
+    margin-bottom: 11px;
+  }
+
+  /* line 28, ../sass/responsive.scss */
+  .old-price {
+    margin-bottom: 2px;
+    font-size: 18px;
+  }
+
+  /* line 29, ../sass/responsive.scss */
+  .white-arrow {
+    right: 11px;
+    top: 185px;
+  }
+
+  /* line 30, ../sass/responsive.scss */
+  input {
+    margin-bottom: 9px;
+  }
+
+  /* line 31, ../sass/responsive.scss */
+  .form .button {
+    padding: 13px 40px;
+    margin: 5px auto 15px;
+    font-size: 16px;
+  }
+
+  /* line 32, ../sass/responsive.scss */
+  .form-wrapper {
+    padding-bottom: 70px;
+    float: none;
+    margin: 0 auto;
+  }
+
+  /* line 33, ../sass/responsive.scss */
+  .nuts {
+    bottom: 15px;
+    left: -12px;
+    width: 63%;
+  }
+
+  /* line 34, ../sass/responsive.scss */
+  .discount {
+    left: auto;
+    top: -175px;
+    right: -45px;
+  }
+
+  /* line 35, ../sass/responsive.scss */
+  header:after {
+    height: 37px;
+  }
+
+  /* line 36, ../sass/responsive.scss */
+  h2 {
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 30px;
+    padding: 0 20px;
+  }
+
+  /* line 37, ../sass/responsive.scss */
+  .image-wrapper {
+    width: 100%;
+    margin: 0 auto 20px auto;
+    float: none;
+    display: block;
+  }
+  /* line 39, ../sass/responsive.scss */
+  .image-wrapper img {
+    max-width: 100%;
+  }
+
+  /* line 41, ../sass/responsive.scss */
+  .block-2 {
+    padding: 15px 0 20px;
+  }
+
+  /* line 42, ../sass/responsive.scss */
+  .block-3 {
+    padding: 15px 0 50px;
+  }
+  /* line 44, ../sass/responsive.scss */
+  .block-3 h2 {
+    margin-top: 60px;
+  }
+
+  /* line 46, ../sass/responsive.scss */
+  .block-3:before {
+    height: 37px;
+  }
+
+  /* line 47, ../sass/responsive.scss */
+  .round-wrapper {
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  /* line 48, ../sass/responsive.scss */
+  .round-description {
+    margin: 10px 0 20px;
+    font-size: 14px;
+  }
+
+  /* line 49, ../sass/responsive.scss */
+  .none-480 {
+    display: none;
+  }
+
+  /* line 50, ../sass/responsive.scss */
+  .green-text {
+    font-size: 20px;
+    line-height: 27px;
+    padding: 20px 40px 25px;
+  }
+
+  /* line 51, ../sass/responsive.scss */
+  .block-4 {
+    padding: 45px 0 490px;
+    margin-bottom: 80px;
+    background-size: auto;
+  }
+
+  /* line 52, ../sass/responsive.scss */
+  .advantages {
+    width: 460px;
+  }
+
+  /* line 53, ../sass/responsive.scss */
+  .minus {
+    padding: 40px 0 30px;
+  }
+  /* line 55, ../sass/responsive.scss */
+  .minus p {
+    padding: 0 0 15px;
+    font-size: 16px;
+    margin-left: 44px;
+  }
+  /* line 56, ../sass/responsive.scss */
+  .minus p:last-child {
+    padding: 10px 0 0;
+  }
+
+  /* line 58, ../sass/responsive.scss */
+  .plus {
+    padding-bottom: 20px;
+  }
+  /* line 60, ../sass/responsive.scss */
+  .plus p {
+    padding: 10px 0 15px;
+    font-size: 16px;
+    margin-left: 44px;
+  }
+  /* line 61, ../sass/responsive.scss */
+  .plus p:last-child {
+    padding: 10px 0;
+  }
+
+  /* line 63, ../sass/responsive.scss */
+  .minus, .plus {
+    float: none;
+    width: 100%;
+  }
+  /* line 64, ../sass/responsive.scss */
+  .minus li, .plus li {
+    margin-bottom: 8px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+
+  /* line 67, ../sass/responsive.scss */
+  .green-top-padding {
+    padding: 45px 0 35px;
+  }
+
+  /* line 68, ../sass/responsive.scss */
+  .block-5 {
+    padding: 62px 0 0;
+  }
+
+  /* line 69, ../sass/responsive.scss */
+  .dark-green, .light-green {
+    width: 230px;
+    margin-bottom: 20px;
+    padding: 0 16px 20px;
+    height: 420px;
+  }
+  /* line 71, ../sass/responsive.scss */
+  .dark-green img, .light-green img {
+    padding: 25px 0;
+  }
+  /* line 72, ../sass/responsive.scss */
+  .dark-green .green-block-title, .light-green .green-block-title {
+    line-height: 20px;
+  }
+  /* line 73, ../sass/responsive.scss */
+  .dark-green .green-block-description, .light-green .green-block-description {
+    line-height: 18px;
+    padding-top: 6px;
+  }
+
+  /* line 75, ../sass/responsive.scss */
+  h3 {
+    font-size: 19px;
+    line-height: 26px;
+    margin-bottom: 30px;
+  }
+
+  /* line 76, ../sass/responsive.scss */
+  .white-block {
+    padding: 40px 20px;
+    top: -15px;
+    margin-bottom: 24px;
+  }
+  /* line 78, ../sass/responsive.scss */
+  .white-block h2 {
+    margin-bottom: 20px;
+    padding: 0 30px;
+  }
+  /* line 79, ../sass/responsive.scss */
+  .white-block p {
+    line-height: 22px;
+    font-size: 14px;
+    margin: 20px 0;
+    padding: 0 20px;
+  }
+  /* line 80, ../sass/responsive.scss */
+  .white-block .white-block-bold {
+    line-height: 24px;
+    font-size: 16px;
+  }
+
+  /* line 82, ../sass/responsive.scss */
+  .block-7 {
+    padding-bottom: 50px;
+  }
+  /* line 84, ../sass/responsive.scss */
+  .block-7 h2 {
+    padding: 0 80px;
+    margin: -15px 0 -30px;
+  }
+  /* line 85, ../sass/responsive.scss */
+  .block-7 .form-wrapper {
+    padding-bottom: 0;
+    margin-top: 30px;
+  }
+
+  /* line 87, ../sass/responsive.scss */
+  .big-product-wrapper {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+  /* line 89, ../sass/responsive.scss */
+  .big-product-wrapper .big-product {
+    max-width: 103%;
+  }
+  /* line 90, ../sass/responsive.scss */
+  .big-product-wrapper .nuts {
+    right: -4px;
+    bottom: 41px;
+    width: 51%;
+  }
+  /* line 91, ../sass/responsive.scss */
+  .big-product-wrapper .button {
+    bottom: 6px;
+    padding: 10px 20px;
+    width: 280px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  /* line 93, ../sass/responsive.scss */
+  .green-arrow {
+    left: 17px;
+    bottom: 18px;
+  }
+
+  /* line 94, ../sass/responsive.scss */
+  .block-8 {
+    background-size: auto;
+    padding: 48px 0 0;
+  }
+  /* line 96, ../sass/responsive.scss */
+  .block-8 h2 {
+    margin-bottom: 6px;
+  }
+
+  /* line 98, ../sass/responsive.scss */
+  .padding-480 {
+    padding-right: 150px;
+    display: block;
+    margin-top: 5px;
+  }
+
+  /* line 99, ../sass/responsive.scss */
+  .expert-wrapper {
+    min-height: 545px;
+    background-size: 92%;
+    background-position: right -20px bottom;
+  }
+  /* line 101, ../sass/responsive.scss */
+  .expert-wrapper p {
+    padding: 0;
+    line-height: 22px;
+  }
+  /* line 102, ../sass/responsive.scss */
+  .expert-wrapper .exper-name {
+    padding-right: 200px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  /* line 104, ../sass/responsive.scss */
+  .show-480 {
+    display: block;
+  }
+
+  /* line 105, ../sass/responsive.scss */
+  .block-8:after {
+    height: 37px;
+  }
+
+  /* line 106, ../sass/responsive.scss */
+  .block-9 {
+    padding: 30px 0 120px;
+  }
+
+  /* line 107, ../sass/responsive.scss */
+  .bx-wrapper .bx-pager {
+    display: none;
+  }
+
+  /* line 108, ../sass/responsive.scss */
+  .slide {
+    background: url("../img/slider-gb.jpg") left -130px top no-repeat, #ffffff;
+    background-size: cover;
+  }
+  /* line 110, ../sass/responsive.scss */
+  .slide p {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px 15px 10px 0;
+  }
+  /* line 111, ../sass/responsive.scss */
+  .slide .slide-name {
+    margin-top: 15px;
+    font-size: 14px;
+  }
+  /* line 112, ../sass/responsive.scss */
+  .slide img {
+    margin: 45px 10px 140px 10px;
+  }
+
+  /* line 114, ../sass/responsive.scss */
+  #slider-prev {
+    top: auto;
+    left: 160px;
+    bottom: -80px;
+  }
+
+  /* line 115, ../sass/responsive.scss */
+  #slider-next {
+    top: auto;
+    right: 160px;
+    bottom: -80px;
+  }
+
+  /* line 116, ../sass/responsive.scss */
+  .block-10:before {
+    height: 37px;
+  }
+
+  /* line 117, ../sass/responsive.scss */
+  .block-10 {
+    padding: 40px 0 30px;
+  }
+  /* line 119, ../sass/responsive.scss */
+  .block-10 .button {
+    margin-top: 10px;
+    width: 240px;
+  }
+
+  /* line 121, ../sass/responsive.scss */
+  .cert {
+    padding: 0;
+  }
+  /* line 123, ../sass/responsive.scss */
+  .cert li {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+    padding: 0 10px;
+    vertical-align: top;
+    margin-bottom: 20px;
+  }
+  /* line 124, ../sass/responsive.scss */
+  .cert img {
+    height: 297px;
+    width: 100%;
+  }
+
+  /* line 126, ../sass/responsive.scss */
+  .block-11 {
+    background: #ffffff;
+    padding: 20px 0 45px;
+    min-height: auto;
+  }
+  /* line 128, ../sass/responsive.scss */
+  .block-11 h2 {
+    text-align: center;
+    line-height: 26px;
+    margin-bottom: 25px;
+  }
+  /* line 129, ../sass/responsive.scss */
+  .block-11 h3 {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.7px;
+  }
+  /* line 130, ../sass/responsive.scss */
+  .block-11 ul {
+    width: 100%;
+  }
+  /* line 131, ../sass/responsive.scss */
+  .block-11 li {
+    margin-bottom: 10px;
+    padding-left: 55px;
+    font-size: 14px;
+  }
+
+  /* line 133, ../sass/responsive.scss */
+  .block-12 {
+    padding: 30px 0 45px;
+  }
+  /* line 135, ../sass/responsive.scss */
+  .block-12 h2 {
+    margin: 13px 0 26px;
+    font-size: 24px;
+    padding: 0 55px;
+  }
+
+  /* line 137, ../sass/responsive.scss */
+  .steps {
+    width: 160px;
+    float: none;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  /* line 138, ../sass/responsive.scss */
+  .steps:nth-child(2n) {
+    float: left;
+  }
+
+  /* line 139, ../sass/responsive.scss */
+  .steps:nth-child(2n+1) {
+    float: right;
+  }
+
+  /* line 140, ../sass/responsive.scss */
+  .second {
+    margin-top: 135px;
+  }
+
+  /* line 141, ../sass/responsive.scss */
+  .fourth {
+    margin-top: 60px;
+  }
+
+  /* line 142, ../sass/responsive.scss */
+  .third, .fifth {
+    margin-top: 24px;
+  }
+
+  /* line 143, ../sass/responsive.scss */
+  .step-description {
+    padding: 0;
+  }
+
+  /* line 144, ../sass/responsive.scss */
+  .first:after, .third:after {
+    width: 125px;
+    background: url("../img/dots_bg.png") center repeat-x;
+    right: -105px;
+    top: 140px;
+    -moz-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    -o-transform: rotate(30deg);
+    transform: rotate(30deg);
+  }
+
+  /* line 155, ../sass/responsive.scss */
+  .second:after, .fourth:after {
+    width: 125px;
+    background: url("../img/dots_bg.png") center repeat-x;
+    right: auto;
+    top: 125px;
+    left: -103px;
+    -moz-transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    -o-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+  }
+
+  /* line 167, ../sass/responsive.scss */
+  .block-13 {
+    padding: 50px 0 30px;
+  }
+  /* line 169, ../sass/responsive.scss */
+  .block-13 .container {
+    background: url("../img/quality.png") bottom 50px right no-repeat;
+    background-size: 33%;
+    height: 310px;
+  }
+  /* line 170, ../sass/responsive.scss */
+  .block-13 h2 {
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  /* line 171, ../sass/responsive.scss */
+  .block-13 p {
+    padding: 0;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 25px;
+  }
+
+  /* line 173, ../sass/responsive.scss */
+  .code {
+    font-size: 14px;
+    padding-right: 150px;
+    line-height: 22px;
+  }
+
+  /* line 175, ../sass/responsive.scss */
+  .fake_form input {
+    width: 280px;
+    margin-top: 8px;
+    padding: 10px 30px;
+  }
+  /* line 176, ../sass/responsive.scss */
+  .fake_form .button {
+    width: 280px;
+    margin-top: 9px;
+    padding: 10px 30px;
+    font-size: 14px;
+  }
+
+  /* line 179, ../sass/responsive.scss */
+  .black-arrow {
+    top: 8px;
+    right: 134px;
+    -moz-transform: rotate(-35deg);
+    -ms-transform: rotate(-35deg);
+    -webkit-transform: rotate(-35deg);
+    -o-transform: rotate(-35deg);
+    transform: rotate(-35deg);
+  }
+
+  /* line 187, ../sass/responsive.scss */
+  .block-14:before, .block-14:after {
+    height: 37px;
+  }
+
+  /* line 188, ../sass/responsive.scss */
+  .block-14 {
+    padding: 55px 0 30px;
+  }
+  /* line 190, ../sass/responsive.scss */
+  .block-14 .form-wrapper {
+    padding-bottom: 20px;
+  }
+  /* line 191, ../sass/responsive.scss */
+  .block-14 h2 {
+    padding: 0;
+    line-height: 30px;
+  }
+  /* line 192, ../sass/responsive.scss */
+  .block-14 .yellow-line {
+    margin-top: 120px;
+  }
+  /* line 193, ../sass/responsive.scss */
+  .block-14 .nuts {
+    bottom: 15px;
+    right: auto;
+    left: -10px;
+  }
+
+  /* line 195, ../sass/responsive.scss */
+  footer {
+    height: auto;
+  }
+
+  /* line 196, ../sass/responsive.scss */
+  .company-logo, .adress, .numbers {
+    float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  /* line 197, ../sass/responsive.scss */
+  .company-logo {
+    padding: 20px 0 10px 0;
+  }
+
+  /* line 198, ../sass/responsive.scss */
+  .adress, .numbers {
+    padding: 0 0 10px 0;
+  }
+
+  /* line 199, ../sass/responsive.scss */
+  #PopUpPhone, #PopUpHead, #PopUpMouse, #PopUpOrder1 {
+    left: 50%;
+    margin-left: -165px;
+    background: transparent;
+  }
+  /* line 203, ../sass/responsive.scss */
+  #PopUpPhone .form-wrapper, #PopUpHead .form-wrapper, #PopUpMouse .form-wrapper, #PopUpOrder1 .form-wrapper {
+    padding: 0;
+  }
+  /* line 204, ../sass/responsive.scss */
+  #PopUpPhone .white-arrow, #PopUpHead .white-arrow, #PopUpMouse .white-arrow, #PopUpOrder1 .white-arrow {
+    right: 15px;
+  }
+  /* line 205, ../sass/responsive.scss */
+  #PopUpPhone .yellow-line, #PopUpPhone .nuts, #PopUpPhone .product-tablet, #PopUpHead .yellow-line, #PopUpHead .nuts, #PopUpHead .product-tablet, #PopUpMouse .yellow-line, #PopUpMouse .nuts, #PopUpMouse .product-tablet, #PopUpOrder1 .yellow-line, #PopUpOrder1 .nuts, #PopUpOrder1 .product-tablet {
+    display: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  /* line 210, ../sass/responsive.scss */
+  header {
+    background: url("../img/header-bg-small.jpg") no-repeat center top;
+    background-size: 100%;
+  }
+
+  /* line 211, ../sass/responsive.scss */
+  .block-14 {
+    background: url("../img/header-bg-small.jpg") no-repeat center top;
+  }
+
+  /* line 212, ../sass/responsive.scss */
+  .numbers {
+    display: none;
+  }
+}
+@media screen and (max-width: 479px) {
+  /* line 216, ../sass/responsive.scss */
+  body {
+    overflow-x: hidden;
+  }
+
+  /* line 217, ../sass/responsive.scss */
+  .container {
+    width: 320px;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  /* line 218, ../sass/responsive.scss */
+  .header-wrapper {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  /* line 219, ../sass/responsive.scss */
+  .logo {
+    float: none;
+    display: inline-block;
+    margin-left: 22px;
+  }
+  /* line 221, ../sass/responsive.scss */
+  .logo img {
+    width: 49%;
+  }
+
+  /* line 223, ../sass/responsive.scss */
+  .button.float-right {
+    float: none;
+    margin: 17px auto;
+    clear: both;
+    padding: 10px 0;
+    width: 200px;
+  }
+
+  /* line 224, ../sass/responsive.scss */
+  h1 {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 3px;
+  }
+
+  /* line 225, ../sass/responsive.scss */
+  .h1-description {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 18px;
+    padding: 0;
+  }
+
+  /* line 227, ../sass/responsive.scss */
+  .list-wrapper li {
+    padding-left: 44px;
+  }
+  /* line 228, ../sass/responsive.scss */
+  .list-wrapper p, .list-wrapper li {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  /* line 230, ../sass/responsive.scss */
+  .product-tablet {
+    width: 60%;
+    right: -6px;
+    top: 230px;
+  }
+
+  /* line 231, ../sass/responsive.scss */
+  .yellow-line {
+    font-size: 14px;
+    text-align: left;
+    padding: 12px 0 13px 6px;
+    margin: 85px 0 120px 0;
+    line-height: 17px;
+  }
+
+  /* line 232, ../sass/responsive.scss */
+  .discount {
+    width: 27%;
+    top: -170px;
+    right: 0;
+  }
+
+  /* line 233, ../sass/responsive.scss */
+  .nuts {
+    bottom: 17px;
+    left: -5px;
+  }
+
+  /* line 234, ../sass/responsive.scss */
+  .form-wrapper {
+    width: 300px;
+  }
+
+  /* line 235, ../sass/responsive.scss */
+  .how-many {
+    text-align: center;
+    line-height: 24px;
+  }
+
+  /* line 236, ../sass/responsive.scss */
+  input {
+    width: 245px;
+  }
+
+  /* line 237, ../sass/responsive.scss */
+  .form {
+    height: 380px;
+    background-size: cover;
+  }
+
+  /* line 238, ../sass/responsive.scss */
+  .form .button {
+    padding: 15px 30px;
+    width: 245px;
+  }
+
+  /* line 239, ../sass/responsive.scss */
+  .form-header {
+    font-size: 18px;
+    padding: 15px 0 30px;
+    line-height: 22px;
+  }
+
+  /* line 240, ../sass/responsive.scss */
+  .old-price {
+    margin: 4px 0 8px;
+    font-size: 18px;
+  }
+
+  /* line 241, ../sass/responsive.scss */
+  .new-price {
+    font-size: 18px;
+  }
+
+  /* line 242, ../sass/responsive.scss */
+  .white-arrow {
+    right: 1px;
+  }
+
+  /* line 243, ../sass/responsive.scss */
+  header:after {
+    height: 20px;
+  }
+
+  /* line 244, ../sass/responsive.scss */
+  .block-2 {
+    padding: 35px 0 25px;
+  }
+
+  /* line 245, ../sass/responsive.scss */
+  h2 {
+    font-size: 18px;
+    line-height: 20px;
+    padding: 0 10px;
+  }
+
+  /* line 246, ../sass/responsive.scss */
+  .colored-title, .colored-description {
+    font-size: 14px;
+    padding: 29px 10px 9px;
+    line-height: 18px;
+  }
+
+  /* line 247, ../sass/responsive.scss */
+  .colored-description {
+    padding: 0 5px 20px;
+  }
+
+  /* line 248, ../sass/responsive.scss */
+  .block-3 h2 {
+    margin-top: 40px;
+  }
+
+  /* line 249, ../sass/responsive.scss */
+  .block-3:before {
+    height: 20px;
+  }
+
+  /* line 250, ../sass/responsive.scss */
+  .round-wrapper {
+    width: 100%;
+  }
+
+  /* line 251, ../sass/responsive.scss */
+  .round-description {
+    padding: 0 30px;
+    line-height: 20px;
+    margin: 3px 0 20px;
+  }
+
+  /* line 252, ../sass/responsive.scss */
+  .green-text {
+    font-size: 16px;
+    line-height: 21px;
+    padding: 22px 0 26px;
+    letter-spacing: 0.5px;
+  }
+
+  /* line 253, ../sass/responsive.scss */
+  .block-4 {
+    padding: 45px 0 560px;
+  }
+  /* line 255, ../sass/responsive.scss */
+  .block-4 h2 {
+    line-height: 24px;
+  }
+
+  /* line 257, ../sass/responsive.scss */
+  .advantages {
+    width: 300px;
+  }
+
+  /* line 258, ../sass/responsive.scss */
+  .minus {
+    padding: 30px 0 10px;
+  }
+
+  /* line 260, ../sass/responsive.scss */
+  .minus p, .plus p {
+    font-size: 14px;
+    margin-left: 38px;
+  }
+  /* line 261, ../sass/responsive.scss */
+  .minus li, .plus li {
+    font-size: 14px;
+    margin-left: 10px;
+    padding-left: 26px;
+  }
+
+  /* line 263, ../sass/responsive.scss */
+  .green-top-padding {
+    padding: 29px 10px 38px;
+  }
+
+  /* line 264, ../sass/responsive.scss */
+  .button-green-block {
+    font-size: 14px;
+  }
+
+  /* line 265, ../sass/responsive.scss */
+  .block-5 {
+    padding: 69px 0 50px;
+  }
+
+  /* line 266, ../sass/responsive.scss */
+  .block-5 h2 {
+    padding: 0;
+    margin-bottom: 10px;
+  }
+
+  /* line 267, ../sass/responsive.scss */
+  .none-320 {
+    display: none;
+  }
+
+  /* line 268, ../sass/responsive.scss */
+  .dark-green, .light-green {
+    margin: 10px auto;
+    float: none;
+  }
+  /* line 270, ../sass/responsive.scss */
+  .dark-green img, .light-green img {
+    padding: 40px 0 22px;
+  }
+
+  /* line 272, ../sass/responsive.scss */
+  h3 {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 0 10px;
+    letter-spacing: 0.6px;
+  }
+
+  /* line 273, ../sass/responsive.scss */
+  .white-block {
+    padding: 30px 10px;
+  }
+  /* line 275, ../sass/responsive.scss */
+  .white-block h2 {
+    margin-bottom: 10px;
+    padding: 0 10px;
+  }
+  /* line 276, ../sass/responsive.scss */
+  .white-block p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 20px 0;
+    padding: 0;
+  }
+  /* line 277, ../sass/responsive.scss */
+  .white-block .white-block-bold {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  /* line 280, ../sass/responsive.scss */
+  .block-7 h2 {
+    padding: 0 50px 20px;
+    margin: -10px 0 -25px;
+  }
+  /* line 281, ../sass/responsive.scss */
+  .block-7 .form-wrapper {
+    margin-top: 92px;
+  }
+  /* line 282, ../sass/responsive.scss */
+  .block-7 .form-header {
+    padding: 15px 0 26px;
+    line-height: 22px;
+  }
+  /* line 283, ../sass/responsive.scss */
+  .block-7 .form .button {
+    margin: 10px auto 15px;
+  }
+
+  /* line 286, ../sass/responsive.scss */
+  .big-product-wrapper .nuts {
+    right: -2px;
+    bottom: -16px;
+    width: 57%;
+  }
+  /* line 287, ../sass/responsive.scss */
+  .big-product-wrapper .button {
+    width: 200px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    padding: 10px 0;
+    bottom: -80px;
+  }
+
+  /* line 289, ../sass/responsive.scss */
+  .green-arrow {
+    width: 17%;
+    left: 3px;
+    bottom: -55px;
+    -moz-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    -o-transform: rotate(15deg);
+    transform: rotate(15deg);
+  }
+
+  /* line 299, ../sass/responsive.scss */
+  .block-8 {
+    padding: 56px 0 70px;
+  }
+  /* line 301, ../sass/responsive.scss */
+  .block-8 h2 {
+    margin-bottom: 23px;
+  }
+
+  /* line 303, ../sass/responsive.scss */
+  .expert-wrapper {
+    background: #ffffff;
+  }
+  /* line 305, ../sass/responsive.scss */
+  .expert-wrapper p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  /* line 306, ../sass/responsive.scss */
+  .expert-wrapper .exper-name {
+    padding: 0 0 0 40px;
+    margin: 41px 0 0 0;
+    text-align: right;
+    line-height: 22px;
+  }
+
+  /* line 308, ../sass/responsive.scss */
+  .padding-480 {
+    padding: 0;
+    margin: 0;
+  }
+
+  /* line 309, ../sass/responsive.scss */
+  .block-8:after {
+    height: 20px;
+  }
+
+  /* line 310, ../sass/responsive.scss */
+  .slide {
+    background: #ffffff;
+  }
+  /* line 312, ../sass/responsive.scss */
+  .slide img {
+    margin: 10px auto;
+    float: none;
+    display: block;
+    -webkit-box-shadow: 0 0 8px 5px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 0 8px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 8px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+  }
+  /* line 317, ../sass/responsive.scss */
+  .slide .slide-name, .slide p {
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    padding: 0 10px;
+  }
+  /* line 318, ../sass/responsive.scss */
+  .slide p {
+    padding-bottom: 20px;
+  }
+
+  /* line 320, ../sass/responsive.scss */
+  #slider-prev {
+    left: 85px;
+    bottom: -90px;
+  }
+
+  /* line 321, ../sass/responsive.scss */
+  #slider-next {
+    right: 85px;
+    bottom: -90px;
+  }
+
+  /* line 322, ../sass/responsive.scss */
+  .block-10:before {
+    height: 20px;
+  }
+
+  /* line 323, ../sass/responsive.scss */
+  .cert img {
+    height: 184px;
+  }
+
+  /* line 324, ../sass/responsive.scss */
+  .block-10 .button {
+    padding: 10px 30px;
+  }
+
+  /* line 325, ../sass/responsive.scss */
+  .block-11 {
+    padding: 20px 0 38px;
+  }
+  /* line 327, ../sass/responsive.scss */
+  .block-11 li {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 10px 0 13px 60px;
+    margin-bottom: 5px;
+  }
+  /* line 328, ../sass/responsive.scss */
+  .block-11 h3 {
+    line-height: 22px;
+    font-size: 16px;
+    padding: 0;
+    margin-top: 15px;
+  }
+
+  /* line 330, ../sass/responsive.scss */
+  .li.two {
+    background-position: 5px 5px;
+  }
+
+  /* line 331, ../sass/responsive.scss */
+  li.one, li.three, li.four, li.five {
+    background-position: 5px 10px;
+  }
+
+  /* line 332, ../sass/responsive.scss */
+  .block-12 {
+    padding: 30px 0 52px;
+  }
+  /* line 334, ../sass/responsive.scss */
+  .block-12 h2 {
+    padding: 0 10px;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  /* line 335, ../sass/responsive.scss */
+  .block-12 .button {
+    padding: 11px;
+    margin-top: 10px;
+  }
+
+  /* line 337, ../sass/responsive.scss */
+  .steps {
+    width: 150px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  /* line 338, ../sass/responsive.scss */
+  .step-description {
+    margin-top: 10px;
+  }
+
+  /* line 339, ../sass/responsive.scss */
+  .second {
+    margin-top: 190px;
+  }
+
+  /* line 340, ../sass/responsive.scss */
+  .third {
+    margin-top: 110px;
+  }
+
+  /* line 341, ../sass/responsive.scss */
+  .fourth {
+    margin-top: 90px;
+  }
+
+  /* line 342, ../sass/responsive.scss */
+  .fifth {
+    margin-top: 93px;
+  }
+
+  /* line 343, ../sass/responsive.scss */
+  .first:after, .second:after, .third:after, .fourth:after {
+    width: 85px;
+  }
+
+  /* line 344, ../sass/responsive.scss */
+  .first:after {
+    right: -45px;
+    top: 160px;
+    -moz-transform: rotate(42deg);
+    -ms-transform: rotate(42deg);
+    -webkit-transform: rotate(42deg);
+    -o-transform: rotate(42deg);
+    transform: rotate(42deg);
+  }
+
+  /* line 345, ../sass/responsive.scss */
+  .second:after {
+    left: -53px;
+    top: 158px;
+    -moz-transform: rotate(-43deg);
+    -ms-transform: rotate(-43deg);
+    -webkit-transform: rotate(-43deg);
+    -o-transform: rotate(-43deg);
+    transform: rotate(-43deg);
+  }
+
+  /* line 346, ../sass/responsive.scss */
+  .third:after {
+    right: -55px;
+    top: 142px;
+    -moz-transform: rotate(41deg);
+    -ms-transform: rotate(41deg);
+    -webkit-transform: rotate(41deg);
+    -o-transform: rotate(41deg);
+    transform: rotate(41deg);
+  }
+
+  /* line 347, ../sass/responsive.scss */
+  .fourth:after {
+    left: -42px;
+    top: 162px;
+    -moz-transform: rotate(-44deg);
+    -ms-transform: rotate(-44deg);
+    -webkit-transform: rotate(-44deg);
+    -o-transform: rotate(-44deg);
+    transform: rotate(-44deg);
+  }
+
+  /* line 348, ../sass/responsive.scss */
+  .black-arrow {
+    display: none;
+  }
+
+  /* line 349, ../sass/responsive.scss */
+  .code {
+    padding-right: 190px;
+  }
+
+  /* line 350, ../sass/responsive.scss */
+  .true-wrapper {
+    background-position: top 120px right 25px;
+  }
+
+  /* line 351, ../sass/responsive.scss */
+  .block-13 {
+    padding: 46px 0 30px;
+  }
+  /* line 353, ../sass/responsive.scss */
+  .block-13 .container {
+    height: auto;
+    background: none;
+  }
+  /* line 354, ../sass/responsive.scss */
+  .block-13 h2 {
+    margin-bottom: 10px;
+    line-height: 23px;
+  }
+  /* line 355, ../sass/responsive.scss */
+  .block-13 p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 11px;
+  }
+  /* line 356, ../sass/responsive.scss */
+  .block-13 input {
+    margin-top: 20px;
+    width: 100%;
+    font-size: 14px;
+  }
+
+  /* line 358, ../sass/responsive.scss */
+  .code {
+    padding-right: 180px;
+  }
+
+  /* line 359, ../sass/responsive.scss */
+  .fake_form {
+    background: url(../img/quality.png) top right 25px no-repeat;
+    background-size: 38.5%;
+  }
+  /* line 361, ../sass/responsive.scss */
+  .fake_form input {
+    padding: 10px 18px;
+  }
+  /* line 362, ../sass/responsive.scss */
+  .fake_form .button {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  /* line 364, ../sass/responsive.scss */
+  .show-320 {
+    display: block;
+  }
+
+  /* line 365, ../sass/responsive.scss */
+  .block-14 {
+    padding: 68px 0 40px;
+  }
+  /* line 367, ../sass/responsive.scss */
+  .block-14 h1 {
+    line-height: 24px;
+  }
+  /* line 368, ../sass/responsive.scss */
+  .block-14 .list-wrapper p {
+    line-height: 20px;
+    margin-bottom: 13px;
+  }
+  /* line 369, ../sass/responsive.scss */
+  .block-14 .yellow-line {
+    margin-top: 87px;
+  }
+  /* line 370, ../sass/responsive.scss */
+  .block-14 .nuts {
+    left: -4px;
+    bottom: 19px;
+  }
+  /* line 371, ../sass/responsive.scss */
+  .block-14 .old-price {
+    margin-bottom: 1px;
+    font-size: 18px;
+  }
+  /* line 372, ../sass/responsive.scss */
+  .block-14 .new-price {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+
+  /* line 374, ../sass/responsive.scss */
+  .block-14:before, .block-14:after {
+    height: 20px;
+  }
+
+  /* line 375, ../sass/responsive.scss */
+  .company-logo {
+    padding: 25px 0 15px 0;
+  }
+
+  /* line 376, ../sass/responsive.scss */
+  .js-true {
+    font-size: 13px;
+    line-height: 22px;
+  }
+
+  /* line 377, ../sass/responsive.scss */
+  .close {
+    right: 0;
+  }
+
+  /* line 378, ../sass/responsive.scss */
+  #PopUpPhone, #PopUpHead, #PopUpMouse, #PopUpOrder1 {
+    left: 50%;
+    margin-left: -150px;
+  }
+  /* line 380, ../sass/responsive.scss */
+  #PopUpPhone .close, #PopUpHead .close, #PopUpMouse .close, #PopUpOrder1 .close {
+    right: 0;
+  }
+  /* line 381, ../sass/responsive.scss */
+  #PopUpPhone .white-arrow, #PopUpHead .white-arrow, #PopUpMouse .white-arrow, #PopUpOrder1 .white-arrow {
+    right: 0;
+  }
+}
